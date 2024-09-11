@@ -1,0 +1,44 @@
+Resultados Finales
+
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-1 track: LA EER: 2.315 EER_progress: 2.685
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-1 track: DF EER: 5.596 EER_progress: 1.371
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-123 track: LA EER: 3.861 EER_progress: 3.699
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-123 track: DF EER: 6.302 EER_progress: 0.639
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-12 track: LA EER: 6.250 EER_progress: 5.313
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-12 track: DF EER: 8.817 EER_progress: 3.262
+
+Modelo clasificación
+
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-1 track: LA EER: 10.726 EER_progress: 12.888
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-1 track: DF EER: 7.149 EER_progress: 3.294
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-123 track: LA EER: 18.527 EER_progress: 15.931
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-123 track: DF EER: 11.534 EER_progress: 3.103
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-12 track: LA EER: 12.040 EER_progress: 13.665
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-12 track: DF EER: 5.192 EER_progress: 3.380
+
+Para 5 semillas en vez de 3
+
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-1234 track: LA EER: 4.050 EER_progress: 3.833
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-1234 track: DF EER: 11.796 EER_progress: 2.066
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-12345 track: LA EER: 5.945 EER_progress: 5.132
+Model: ModeloFusion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_seed-12345 track: DF EER: 11.205 EER_progress: 1.092
+
+Modelo clasificación train dev y val 2021
+
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-1 track: LA EER: 17.691 EER_progress: 22.014
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-1 track: DF EER: 8.898 EER_progress: 6.363
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-12 track: LA EER: 10.097 EER_progress: 11.767
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-12 track: DF EER: 6.544 EER_progress: 3.120
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-123 track: LA EER: 11.467 EER_progress: 12.363
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-123 track: DF EER: 7.606 EER_progress: 6.207
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-1234 track: LA EER: 9.961 EER_progress: 10.572
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-1234 track: DF EER: 6.517 EER_progress: 3.957
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-12345 track: LA EER: 14.788 EER_progress: 15.811
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_train2-False_seed-12345 track: DF EER: 10.651 EER_progress: 8.215
+
+Modelo clasificación
+
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-1234 track: LA EER: 13.046 EER_progress: 14.917
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-1234 track: DF EER: 7.270 EER_progress: 3.849
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-12345 track: LA EER: 13.573 EER_progress: 14.679
+Model: ModeloClasificacion_earlyS-8_wd-0.0001_patien-3_ScNorm-True_lstmLa-3_clasif-True_seed-12345 track: DF EER: 10.485 EER_progress: 3.817
